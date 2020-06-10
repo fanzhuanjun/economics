@@ -1,28 +1,12 @@
-- Getting started
+- 《宏观经济学二十五讲》笔记
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
-
-- Customization
-
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-
-- Guide
-
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-Side Rendering(SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+  - [第 10 讲 内部失衡到外部失衡](第 10 讲 内部失衡到外部失衡.md)
+  - [第 14 讲 黏性价格下的货币经济与货币政策](第 14 讲 黏性价格下的货币经济与货币政策.md)
+  - [第 15 讲 货币政策传导与流动性效应](第 15 讲 货币政策传导与流动性效应.md)
+  - [第 16 讲 理解中国金融市场的预算软约束视角](第 16 讲 理解中国金融市场的预算软约束视角.md)
+  - [第 17 讲 常规货币政策](第 17 讲 常规货币政策.md)
+  - [第 18 讲 非常规货币政策](第 18 讲 非常规货币政策.md)
+  - [第 19 讲 中国的货币政策实践](第 19 讲 中国的货币政策实践.md)
+  - [第 20 讲 开放经济中的货币](第 20 讲 开放经济中的货币.md)
+  - [第 21 讲 中国的通货膨胀与房价](第 21 讲 中国的通货膨胀与房价.md)
+  - [第 22 讲 中国债务问题与金融乱象](第 22 讲 中国债务问题与金融乱象.md)
