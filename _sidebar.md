@@ -1,38 +1,4 @@
-- 《宏观经济学二十五讲》笔记
+- 宏观经济学
 
-  - <font color='CCCCC'>第 1 讲 有关中国经济的关键问题</font>
-  - <font color='CCCCC'>第 2 讲 通过 GDP 认识中国经济</font>
-  - <font color='CCCCC'>第 3 讲 中国经济增长的供给面分析</font>
-  - <font color='CCCCC'>第 4 讲 发展战略与经济绩效</font>
-  - <font color='CCCCC'>第 5 讲 均衡宏观经济学方法论（上）</font>
-  - <font color='CCCCC'>第 6 讲 均衡宏观经济学方法论（下）</font>
-  - <font color='CCCCC'>第 7 讲 消费与储蓄的决定（上）</font>
-  - <font color='CCCCC'>第 8 讲 消费与储蓄的决定（下）</font>
-  - <font color='CCCCC'>第 9 讲 中国消费的不足</font>
-  - [第 10 讲 内部失衡到外部失衡](第10讲内部失衡到外部失衡.md)
-  - <font color='CCCCC'>第 11 讲 外部失衡到经济危机</font>
-  - <font color='CCCCC'>第 12 讲 财政政策：凯恩斯和李嘉图</font>
-  - <font color='CCCCC'>第 13 讲 灵活价格下的货币经济</font>
-  - [第 14 讲 黏性价格下的货币经济与货币政策](第14讲黏性价格下的货币经济与货币政策.md)
-  - [第 15 讲 货币政策传导与流动性效应](第15讲货币政策传导与流动性效应.md)
-  - [第 16 讲 理解中国金融市场的预算软约束视角](第16讲理解中国金融市场的预算软约束视角.md)
-  - [第 17 讲 常规货币政策](第17讲常规货币政策.md)
-  - [第 18 讲 非常规货币政策](第18讲非常规货币政策.md)
-  - [第 19 讲 中国的货币政策实践](第19讲中国的货币政策实践.md)
-  - [第 20 讲 开放经济中的货币](第20讲开放经济中的货币.md)
-  - [第 21 讲 中国的通货膨胀与房价](第21讲中国的通货膨胀与房价.md)
-  - [第 22 讲 中国债务问题与金融乱象](第22讲中国债务问题与金融乱象.md)
-  - <font color='CCCCC'>第 23 讲 新—新古典综合给出的正统答案</font>
-  - <font color='CCCCC'>第 24 讲 非正统宏观经济理论给出的不同答案</font>
-  - <font color='CCCCC'>第 25 讲 理解中国经济的六层思维</font>
-
-- 《動学マクロ経済学へのいざない》笔记
-
-  - <font color='CCCCC'>第１章　ソローモデルと成長会計</font>
-  - <font color='CCCCC'>第２章　ラムゼイモデル：最適化行動の導入</font>
-  - <font color='CCCCC'>第３章　財政モデル：税制と経済成長</font>
-  - <font color='CCCCC'>第４章　実物的景気循環モデル</font>
-  - <font color='CCCCC'>第５章　ニューケインジアン・モデル</font>
-  - <font color='CCCCC'>第６章　動的計画法とモデルの再帰的表現</font>
-  - <font color='CCCCC'>第７章　金融政策ルールと最適金融政策</font>
-  - <font color='CCCCC'>第８章　DSGEモデルのパラメータ推定</font>
+  - [《宏观经济学二十五讲》笔记](宏观经济学二十五讲/README)
+  - [《動学マクロ経済学へのいざない》笔记](ryohasumi/README.md)
