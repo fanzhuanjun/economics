@@ -1,4 +1,4 @@
-- 宏观经济学
+- [返回主页](README)
 
   - [《宏观经济学二十五讲》笔记](宏观经济学二十五讲/README)
     - <font color='CCCCC'>第 1 讲 有关中国经济的关键问题</font>
@@ -26,4 +26,3 @@
     - <font color='CCCCC'>第 23 讲 新—新古典综合给出的正统答案</font>
     - <font color='CCCCC'>第 24 讲 非正统宏观经济理论给出的不同答案</font>
     - <font color='CCCCC'>第 25 讲 理解中国经济的六层思维</font>
-  - [《動学マクロ経済学へのいざない》笔记](ryohasumi/README.md)
