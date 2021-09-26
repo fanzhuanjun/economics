@@ -1,5 +1,10 @@
 - [返回主页](README)
+
   - [《多次约束下的货币政策》](多次约束下的货币政策/README)
-    - [Ch8](多次约束下的货币政策/Ch8.md)
-    - [Ch9](多次约束下的货币政策/Ch9.pdf)
+
+    - [Ch8](https://myeconomics.cn/economics/多次约束下的货币政策/Ch8.pdf)
+
+    - [Ch9](https://myeconomics.cn/economics/多次约束下的货币政策/Ch9.pdf)
+
+      
 
