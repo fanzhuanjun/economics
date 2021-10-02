@@ -29,8 +29,8 @@
 
 **第三篇 全球货币政策传导的新现象和新机理**
 
-- [CH8 供给侧视角下的僵尸企业与 “低利率陷阱”](https://myeconomics.cn/economics/多次约束下的货币政策/Ch8.pdf)
-- [CH9 财政政策对货币政策传导的影响：兼论现代货币理论的是与非](https://myeconomics.cn/economics/多次约束下的货币政策/Ch9.pdf)
+- [CH8 供给侧视角下的僵尸企业与 “低利率陷阱”](https://myeconomics.cn/economics/多重约束下的货币政策/Ch8.pdf)
+- [CH9 财政政策对货币政策传导的影响：兼论现代货币理论的是与非](https://myeconomics.cn/economics/多重约束下的货币政策/Ch9.pdf)
 - CH10 影子银行与货币政策传导
 - CH11 溢出、回溢效应与货币政策的国际协调
 
