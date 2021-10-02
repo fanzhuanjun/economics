@@ -1,6 +1,6 @@
 - [返回主页](README)
 
-  - [《多次约束下的货币政策》](多次约束下的货币政策/README)
+  - [《多重约束下的货币政策传导机制》](多重约束下的货币政策/README)
 
     - [Ch8](https://myeconomics.cn/economics/多次约束下的货币政策/Ch8.pdf)
 
